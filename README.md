@@ -1,6 +1,6 @@
 Projeto em construçao
 
-link do projeto:  https://meugit204.github.io/Projeto-receitas-de-arroz/
+link do projeto: https://meugit204.github.io/Projeto-Receitas/
 
 ---
 
@@ -25,7 +25,7 @@ Este projeto é uma implementação prática de uma página de receitas, criada 
 Sinta-se à vontade para explorar, clonar e contribuir para aprimorar este projeto. Aceito sugestões, correções de bugs e melhorias no código. Sua colaboração é bem-vinda para tornar este projeto ainda mais robusto e versátil.
 
 **Instruções de Execução:**
-1. Clone o repositório: `git clone https://github.com/meugit204/Projeto-receitas-de-arroz`
+1. Clone o repositório: `https://meugit204.github.io/Projeto-Receitas/`
 2. Abra o arquivo `index.html` no seu navegador preferido.
 
 Agradeço por conferir este projeto! Sua opinião e contribuições são valorizadas. 😊✨
