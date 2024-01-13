@@ -644,3 +644,39 @@ header .container .descktop ul li a {
     height: auto;
   }
 }
+footer {
+  background-color: #EFEFEF;
+}
+footer .container-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 70%;
+  align-items: center;
+  margin: 0 100px 0 auto;
+  padding: 20px 0;
+}
+footer .container-links nav li {
+  padding: 5px 0;
+}
+footer .container-links nav li a {
+  color: #000;
+  font-size: 1em;
+  font-family: Roboto;
+}
+@media screen and (max-width: 760px) {
+  footer .container-links {
+    width: 100%;
+    margin: 0;
+    padding: 20px 30px;
+  }
+}
+footer .direitos {
+  text-align: center;
+  padding: 5px 0;
+}
+footer .direitos p {
+  font-size: 1em;
+  font-family: Roboto;
+  color: #000;
+}

@@ -665,3 +665,47 @@ header {
         height: auto;
     }
 }
+
+// Footer
+footer {
+    background-color: #EFEFEF;
+
+    .container-links {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 70%;
+        align-items: center;
+        margin: 0 100px 0 auto;
+        padding: 20px 0;
+
+        nav {
+            li {
+                padding: 5px 0;
+
+                a {
+                    color: #000;
+                    font-size: 1em;
+                    font-family: Roboto;
+                }
+            }
+        }
+
+        @media screen and (max-width:760px) {
+            width: 100%;
+            margin: 0;
+            padding: 20px 30px;
+        }
+    }
+
+    .direitos {
+        text-align: center;
+        padding: 5px 0;
+
+        p {
+            font-size: 1em;
+            font-family: Roboto;
+            color: #000;
+        }
+    }
+}
